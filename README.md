@@ -2,9 +2,9 @@
 Python wrapper for Thycotic Secret Server API
 
 ### Install
-keep pip module up to date and run the following:
+git clone this repo, keep pip module up to date and run the following:
 ```
-git clone https://github.com/acefei/secret-server-helper.git
+cd scripts/update_secrets
 python3 -m pip install -U pip
 python3 -m pip install .
 ```
